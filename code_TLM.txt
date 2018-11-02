@@ -2,3 +2,4 @@ my Dissertation Code (TLM).
 Basic introduction, description of current thoughts on energy. 
 
 This is a short description of my new idea...
+e != mc^2
