@@ -1,9 +1,0 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-Blabla firstline blabla 
-add second line
-=======
->>>>>>> parent of fec73aa... add firstline
-=======
-Blabla firstline blabla 
->>>>>>> parent of 837b53c... add second line to test
